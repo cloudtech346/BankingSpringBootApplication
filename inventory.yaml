@@ -1,12 +1,5 @@
 [all:children]
-aws
 azure
-
-[aws]
-35.172.226.37
-
-[aws:vars]
-ansible_ssh_user=ubuntu
 
 [azure]
 20.127.146.215
