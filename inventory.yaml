@@ -13,4 +13,4 @@ ansible_ssh_user=ubuntu
 
 [azure:vars]
 ansible_ssh_user=devops
-ansible_ssh_pass=<YOUR_AZURE_VM_PASSWORD>
+ansible_ssh_pass=Bankpro@1234
